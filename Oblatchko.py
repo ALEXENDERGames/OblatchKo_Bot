@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-API_TOKEN = 'BOT_TOKEN'
+API_TOKEN = '8192410051:AAEz3lkLHgSGe0fEP5D-3JfT_wTQleQtZb8'
 WEATHER_API_KEY = '1671cc601632c69396322d9c9849c65d'
 
 # Инициализация бота с новым синтаксисом
